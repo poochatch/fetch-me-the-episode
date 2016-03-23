@@ -9,42 +9,14 @@ if __name__ == '__main__':
         import sys
         from os import path
         sys.path.append( path.dirname( path.dirname( path.abspath(__file__) ) ) ) 
-        from app.aport_app import FileManagement, FetchInfo, FetchTorrent
+        from app.fetchinfo import FetchInfo
+        from app.fetchtorrent import FetchTorrent
     else:
-        from  ..app.aport_app import FileManagement, FetchInfo, FetchTorrent 
+        from app.fetchinfo import FetchInfo
+        from app.fetchtorrent import FetchTorrent
         
 
 
-class TestFileManagement(unittest.TestCase):
-    def setUp(self):
-        self.file_management = FileManagement('download_history.txt')
-
-    def test_load_file_into_buffer_loads_open_file(self):
-        self.file_management.load_file_into_buffer(self.file_management.file_name)
-        self.assertEqual('r',self.file_management.file.mode)
-        self.assertRaises(IOError, self.file_management.load_file_into_buffer, 'non_existing_file')
-    
-    def test_parse_closed_file(self):
-        self.file_management.load_file_into_buffer(self.file_management.file_name)
-        self.assertEqual(True, self.file_management.file.closed)
-
-    def test_parse_has_read_file_into_buffer(self):
-        self.assertIsInstance(self.file_management.buffer, list)
-        self.assertNotEqual(len(self.file_management.buffer),0)
-
-    def test_buffer_has_correct_data(self):
-        prefixes = ('#',' ','\n','\r','\t')
-        for line in self.file_management.buffer:
-            self.assertIsInstance(line, list)
-            self.assertEqual(len(line), 6)
-            self.assertEqual(False, line[0].startswith(prefixes))
-            for word in line:
-                self.assertIsInstance(word , (unicode, str))
-                self.assertNotEqual(0, len(word))
-                self.assertEqual(False,word.startswith('#'))
-                
-                
-    
 class TestFetchInfo(unittest.TestCase):
     series = ['vikings', 'the-walking-dead'] # list of valid url from next-episode.net
     titles = ['the vikings', 'vikings', 'walking dead', 'the walking dead']
@@ -86,7 +58,12 @@ class TestFetchInfo(unittest.TestCase):
     def test_not_watched_returns_list_of_apropriate_length(self):
         pass
 
-
+    def test_read_top_watched_returns_list_of_urls(self):
+        top = self.fetch.get_top_watched()
+        self.assertIsInstance(top, list)
+        for title in top:
+            self.assertIsInstance(title,tuple)
+            self.assertIsInstance(title[1],(str,unicode))
     
 class TestFetchTorrent(object):
     pass
