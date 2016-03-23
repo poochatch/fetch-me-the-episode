@@ -1,0 +1,11 @@
+# SERIES TABLE
+
+# SYNTAX:
+# title,site,url,other_titles
+# line[0] - title
+# line[1] - site
+# line[2] - url
+# line[3:] - other titles
+# eg.
+The Vikings,http://next-episode.net,/vikings,Vikings,wikingowie
+The Walking Dead,httpL//next-episode.net,/the-walking-dead,walking dead

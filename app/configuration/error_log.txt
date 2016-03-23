@@ -1,0 +1,472 @@
+17:01:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:01:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:01:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:01:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:01:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:01:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 9 of download_history.txt: 
+17:02:22 mar 2016 Invalid entry in line 13 of download_history.txt: ,,,,,,
+17:02:22 mar 2016 Invalid entry in line 14 of download_history.txt: , , , , , , 
+17:02:22 mar 2016 Wrong entry lenght in line 15 of download_history.txt: 
+17:02:22 mar 2016 Invalid entry in line 17 of download_history.txt: 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:02:22 mar 2016 Invalid entry in line 18 of download_history.txt: ,asd, asdddd, #, asa, ,,
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 9 of download_history.txt: 
+17:02:22 mar 2016 Invalid entry in line 13 of download_history.txt: ,,,,,,
+17:02:22 mar 2016 Invalid entry in line 14 of download_history.txt: , , , , , , 
+17:02:22 mar 2016 Wrong entry lenght in line 15 of download_history.txt: 
+17:02:22 mar 2016 Invalid entry in line 17 of download_history.txt: 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:02:22 mar 2016 Invalid entry in line 18 of download_history.txt: ,asd, asdddd, #, asa, ,,
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 9 of download_history.txt: 
+17:02:22 mar 2016 Invalid entry in line 13 of download_history.txt: ,,,,,,
+17:02:22 mar 2016 Invalid entry in line 14 of download_history.txt: , , , , , , 
+17:02:22 mar 2016 Wrong entry lenght in line 15 of download_history.txt: 
+17:02:22 mar 2016 Invalid entry in line 17 of download_history.txt: 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:02:22 mar 2016 Invalid entry in line 18 of download_history.txt: ,asd, asdddd, #, asa, ,,
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:02:22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:04:17 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt: 
+17:04:17 22 mar 2016 Invalid entry in line 13 of download_history.txt: ,,,,,,
+17:04:17 22 mar 2016 Invalid entry in line 14 of download_history.txt: , , , , , , 
+17:04:17 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt: 
+17:04:17 22 mar 2016 Invalid entry in line 17 of download_history.txt: 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:04:17 22 mar 2016 Invalid entry in line 18 of download_history.txt: ,asd, asdddd, #, asa, ,,
+17:04:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:04:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:04:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:04:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:04:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt: 
+17:05:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:05:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:05:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:05:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:05:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:05:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:05:13 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:05:13 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:05:13 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:05:13 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:05:13 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:06:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:06:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:06:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:06:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:06:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:06:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:06:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:06:13 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:06:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:06:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:06:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:06:13 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:06:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:06:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:06:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:06:13 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 100 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:06:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:06:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:06:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:06:13 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 100 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 193 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:06:13 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:06:13 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:06:13 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:06:13 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:06:13 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 100 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 193 of download_history.txt:	 
+17:06:13 22 mar 2016 Wrong entry lenght in line 378 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:08:52 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:08:52 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:08:52 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:08:52 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:08:52 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:08:52 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:08:52 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:08:52 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:08:52 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:08:52 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:08:52 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:08:52 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:08:52 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:08:52 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:08:52 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:08:52 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 100 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:08:52 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:08:52 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:08:52 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:08:52 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 100 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 193 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:08:52 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:08:52 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:08:52 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:08:52 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:08:52 22 mar 2016 Wrong entry lenght in line 29 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 53 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 100 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 193 of download_history.txt:	 
+17:08:52 22 mar 2016 Wrong entry lenght in line 378 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 13 of download_history.txt:	 ,,,,,,
+17:13:09 22 mar 2016 Invalid entry in line 14 of download_history.txt:	 , , , , , , 
+17:13:09 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:13:09 22 mar 2016 Invalid entry in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:13:09 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 21 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 25 of download_history.txt:	 ,,,,,,
+17:13:09 22 mar 2016 Invalid entry in line 26 of download_history.txt:	 , , , , , , 
+17:13:09 22 mar 2016 Wrong entry lenght in line 27 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 29 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:13:09 22 mar 2016 Invalid entry in line 30 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:13:09 22 mar 2016 Wrong entry lenght in line 20 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 32 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 43 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 47 of download_history.txt:	 ,,,,,,
+17:13:09 22 mar 2016 Invalid entry in line 48 of download_history.txt:	 , , , , , , 
+17:13:09 22 mar 2016 Wrong entry lenght in line 49 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 51 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:13:09 22 mar 2016 Invalid entry in line 52 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:13:09 22 mar 2016 Wrong entry lenght in line 40 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 62 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 74 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 85 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 89 of download_history.txt:	 ,,,,,,
+17:13:09 22 mar 2016 Invalid entry in line 90 of download_history.txt:	 , , , , , , 
+17:13:09 22 mar 2016 Wrong entry lenght in line 91 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 93 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:13:09 22 mar 2016 Invalid entry in line 94 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:13:09 22 mar 2016 Wrong entry lenght in line 80 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 122 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 144 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 156 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 167 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 171 of download_history.txt:	 ,,,,,,
+17:13:09 22 mar 2016 Invalid entry in line 172 of download_history.txt:	 , , , , , , 
+17:13:09 22 mar 2016 Wrong entry lenght in line 173 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 175 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:13:09 22 mar 2016 Invalid entry in line 176 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:13:09 22 mar 2016 Wrong entry lenght in line 160 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 242 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 284 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 306 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 318 of download_history.txt:	 
+17:13:09 22 mar 2016 Wrong entry lenght in line 329 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 333 of download_history.txt:	 ,,,,,,
+17:13:09 22 mar 2016 Invalid entry in line 334 of download_history.txt:	 , , , , , , 
+17:13:09 22 mar 2016 Wrong entry lenght in line 335 of download_history.txt:	 
+17:13:09 22 mar 2016 Invalid entry in line 337 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:13:09 22 mar 2016 Invalid entry in line 338 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 320 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 321 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 482 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 483 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 564 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 565 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 606 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 607 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 628 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 629 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 640 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 641 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 651 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 655 of download_history.txt:	 ,,,,,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 656 of download_history.txt:	 , , , , , , 
+17:27:54 22 mar 2016 Wrong entry lenght in line 657 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 658 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:27:54 22 mar 2016 Invalid entry in line 659 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:27:54 22 mar 2016 Wrong entry lenght in line 660 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:27:54 22 mar 2016 Wrong entry lenght in line 640 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 640 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 640 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 640 of download_history.txt:	 
+17:27:54 22 mar 2016 Wrong entry lenght in line 640 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 9 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 13 of download_history.txt:	 ,,,,,,
+17:28:20 22 mar 2016 Wrong entry lenght in line 14 of download_history.txt:	 , , , , , , 
+17:28:20 22 mar 2016 Wrong entry lenght in line 15 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 16 of download_history.txt:	 \n sada,asd,asd,asd,asd,,
+17:28:20 22 mar 2016 Invalid entry in line 17 of download_history.txt:	 12 sty 2011,ktorrent  , walking dead,ep,  ,app/torrents
+17:28:20 22 mar 2016 Wrong entry lenght in line 18 of download_history.txt:	 ,asd, asdddd, #, asa, ,,
+17:28:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:28:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:43:45 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:43:45 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:43:45 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:43:45 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:43:45 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:43:45 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:45:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:45:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:45:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:45:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:45:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:45:20 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:41 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:41 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:41 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:41 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:41 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:46:41 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:48:31 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:48:31 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:48:31 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:48:31 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:48:31 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:48:31 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:49:08 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:49:08 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:49:08 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:49:08 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:49:08 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:49:08 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:50:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:50:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:50:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:50:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:50:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+17:50:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:34:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:34:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:34:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:34:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:34:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:34:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:39:19 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:39:19 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:39:19 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:39:19 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:39:19 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:39:19 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 1 of series_table.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:41:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:52 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:43:52 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:43:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:43:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:04 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:04 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:45:04 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:45:05 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:05 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:05 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:05 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:05 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:05 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:55 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:55 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:45:55 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:45:59 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:45:59 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:45:59 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:53:29 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:53:29 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:53:29 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:53:42 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:53:42 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:53:42 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:54:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:54:01 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:54:01 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:54:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:54:17 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:54:17 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:55:01 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:55:01 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:55:01 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:56:06 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:06 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:56:06 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:56:33 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:25 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:25 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:57:25 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:57:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:57:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:06 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:06 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:58:06 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:58:07 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:07 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:07 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:07 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:07 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:58:07 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:53 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:53 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+21:59:53 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+21:59:54 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:54 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:54 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:54 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:54 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+21:59:54 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:09 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:09 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:00:09 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:00:10 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:10 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:10 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:10 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:10 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:00:10 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:15 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:15 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:01:15 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:01:16 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:16 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:16 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:16 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:16 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:01:16 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:50 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:50 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:02:50 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:02:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:02:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:27 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:27 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:03:27 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:03:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:03:28 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:21 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:21 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:06:21 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:06:22 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:22 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:22 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:22 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:22 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:06:22 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:08:39 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:08:39 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:08:39 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:14:51 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:14:51 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:14:51 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:14:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:14:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:14:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:14:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:14:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:14:52 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:25 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:25 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:15:25 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:15:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:15:26 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:17 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:17 22 mar 2016 Wrong entry lenght in line 11 of torrent_history.txt:	 
+22:18:17 22 mar 2016 Wrong entry lenght in line 8 of series_table.txt:	 
+22:18:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 
+22:18:18 22 mar 2016 Wrong entry lenght in line 10 of download_history.txt:	 

@@ -1,0 +1,12 @@
+# TORRENT DOWNLOAD HISTORY
+# keeps track of downloaded torrent files
+#
+# SYNTAX:
+# date,series_name,(season,episode),torrent_client,url,file_name
+# line[0] - date
+# line[1] - series name
+# line[2] - (season,episode)
+# line[3] - torrent_client
+# line[4] - url
+# line[5] - file_name
+

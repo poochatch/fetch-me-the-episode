@@ -5,12 +5,12 @@
 import requests, os, bs4
 
 torrent = 'http://www.torrenthound.com/torrent/391781cab16df66db537f601b6330d0656c61a68'
-url = 'http://next-episode.net/vikings'
+url = 'http://next-episode.net/better-call-saul'
 
 headers = {'User-Agent':'Mozzilla/5.0'}
 res = requests.get(url,headers=headers,verify=False)
 
-file = open('vikings.torrent', 'wb')
+file = open('better_call_saul.torrent', 'wb')
 soup = bs4.BeautifulSoup(res.text)
 episode = soup.select('div #previous_episode')
 for x in episode: print x.getText()
@@ -24,9 +24,9 @@ torr = requests.get(torrent)
 from subprocess import call
 
 
-#for chunk in torr.iter_content(10**5):
-#    file.write(chunk)
+for chunk in torr.iter_content(10**5):
+    file.write(chunk)
 
 file.close()
 
-#all(['ktorrent','vikings.torrent'])
+call(['ktorrent','vikings.torrent'])
