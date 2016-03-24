@@ -1,13 +1,12 @@
 
 # FetchInfo configuration
 data_seeds =    ('http://next-episode.net',
+                    'http://www.filmweb/serial',
 
                 )
 
 data_seed_current = 0 # index of current data seed
-
-
-
+headers = {'User-Agent':'Mozilla/5.0'}
 
 
 

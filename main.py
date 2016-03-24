@@ -10,7 +10,7 @@ arguments = sys.argv
 info = FetchInfo()
 torrent = FetchTorrent()
 
-PATH = os.path.abspath(os.path.dirname(sys.argv[0]))
+PATH = os.path.abspath(os.path.dirname(__file__))
 TORRENT_PATH = PATH + '/torrents/'
 
 print PATH + TORRENT_PATH
